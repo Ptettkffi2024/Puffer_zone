@@ -1,0 +1,14 @@
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\bin\Debug\net9.0\Puffer_Zone.exe
+C:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\bin\Debug\net9.0\Puffer_Zone.deps.json
+C:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\bin\Debug\net9.0\Puffer_Zone.runtimeconfig.json
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\bin\Debug\net9.0\Puffer_Zone.dll
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\bin\Debug\net9.0\Puffer_Zone.pdb
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.AssemblyInfoInputs.cache
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.AssemblyInfo.cs
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.csproj.CoreCompileInputs.cache
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.dll
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\refint\Puffer_Zone.dll
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.pdb
+C:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.genruntimeconfig.cache
+C:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\ref\Puffer_Zone.dll
