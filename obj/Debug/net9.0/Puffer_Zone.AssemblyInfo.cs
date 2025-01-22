@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Puffer_Zone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9970dedd5e7df1b769a7e2f92d732ddf6b504f9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Puffer_Zone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Puffer_Zone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

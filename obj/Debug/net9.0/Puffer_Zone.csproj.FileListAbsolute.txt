@@ -12,3 +12,4 @@ c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\ne
 c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.pdb
 C:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.genruntimeconfig.cache
 C:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\ref\Puffer_Zone.dll
+c:\Users\zalan\OneDrive\Dokumentumok\buffer\Puffer_Zone\Puffer_Zone\obj\Debug\net9.0\Puffer_Zone.sourcelink.json
